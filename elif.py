@@ -1,9 +1,10 @@
-x = 1 
-y = 2
+nota = float(input("Digite a nota do aluno:"))
 
-if x == y:
-    print("numeros iguais")
-elif y > x:
-    print("y maior que x")
+if nota == 10:
+    print("Perfeito!")
+elif nota >= 7:
+    print("Boa nota!")
+elif nota >= 5:
+    print("Quase lá…")
 else:
-    print("numeros diferentes")
+    print("Precisa melhorar")

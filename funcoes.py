@@ -1,5 +1,5 @@
 #sao definidas pela palavra reservada def sendo seu bloco executado somente se for chamado
-
+#funcoes sempre na parte superior
 def soma(x, y):
     print(x + y)
 soma(2,3)
@@ -15,4 +15,4 @@ def multiplicacao(x, y):
 s = soma(2, 3)
 m = multiplicacao(3, 4)
 
-print(soma(s,m)) 
+print(soma(s,m))

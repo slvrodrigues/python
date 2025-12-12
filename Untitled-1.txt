@@ -1,1 +1,12 @@
-lo
+*** Manipulando arquivos
+Função open
+variavel = open(nome,modo)
+
+modo                Funcao
+r                   somente leitura
+w                   escrita(caso o arquivo ja exista, sera apagado e um novo arquivo vazio será criado)
+a                   leitura e escrita(adiciona o novo conteúdo ao fim do arquivo)
+r+                  leitura e escrita
+w+                  escrita
+a+                  leitura e escrita(abre o arquivo para atualização)
+

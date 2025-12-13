@@ -1,1 +1,3 @@
 Primeira linha em UTF-8
+
+Adicionando uma nova linha ao arquivo

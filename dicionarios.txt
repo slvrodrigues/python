@@ -1,3 +1,5 @@
+Breve explicação sobre dicionarios 
+
 Em Python, dicionários são arrays associativos, ou seja, um determinado valor passa a ser vinculado a uma chave. Exemplo:
 
 # dicionarios em python
